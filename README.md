@@ -25,6 +25,6 @@ A Dockerrun.aws.json file can be used on its own or zipped up with additional so
 Use the mountPoints section of the embedded container definitions to map these volumes to mount points that applications on the Docker containers can use.<br></br>
 
 <div align="center">
-  <a href="https://github.com/franchialan/aws-webapp-templates/tree/main/templates">
+  <a href="https://github.com/franchialan/aws-webapp-templates/tree/main/templates" rel="templates">
     <h3> 📝 Templates
   </div>
