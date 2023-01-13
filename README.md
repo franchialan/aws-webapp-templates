@@ -25,4 +25,4 @@ A Dockerrun.aws.json file can be used on its own or zipped up with additional so
 Use the mountPoints section of the embedded container definitions to map these volumes to mount points that applications on the Docker containers can use.<br></br>
 
 <p align="center"> 
-  <a href="https://docs.aws.amazon.com/pt_br/elastic-beanstalk/index.html" rel="aws-elastic-beanstalk"> <strong> 📝 Templates </strong>
+  <a href="https://github.com/franchialan/aws-webapp-templates/tree/main/templates" rel="templates"> <strong> 📝 Templates </strong>
